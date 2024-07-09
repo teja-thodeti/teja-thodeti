@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (actually dont need one)
 - 📫 Reach me on instagram (or) write me onto my email
 - 😄 Pronouns: he/she
-- ⚡ Fun fact: milkteeth dont have milk in it. hahaha
+- ⚡ Fun fact: 
 
 <!---
 teja-thodeti/teja-thodeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
