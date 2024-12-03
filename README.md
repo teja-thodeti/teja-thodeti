@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced python 
 - 💞️ I’m looking to collaborate on (actually dont need one)
 - 📫 Reach me on instagram (or) write me onto my email
-- 😄 Pronouns: he/she
+- 😄 Pronouns: he
 - ⚡ Fun fact: 
 
 <!---
