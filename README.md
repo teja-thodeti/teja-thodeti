@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @teja-thodeti
-- 👀 I’m interested in watching movies and playing videogames
-- 🌱 I’m currently learning advanced python 
-- 💞️ I’m looking to collaborate on (actually dont need one)
-- 📫 Reach me on instagram (or) write me onto my email
-- 😄 Pronouns: he
-- ⚡ Fun fact: 
+- Hi, I’m @teja-thodeti
+- I’m interested in videogames
 
 <!---
 teja-thodeti/teja-thodeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
